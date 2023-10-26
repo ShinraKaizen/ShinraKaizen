@@ -10,7 +10,7 @@
 
 ### 📁 Projects
 
-- 🌐 [ASP Core Dashboard] - In-house Dashboard for data extraction, analysis, and automation of data flow.
+- 🌐 ASP Core Dashboard - In-house Dashboard for data extraction, analysis, and automation of data flow.
 - 📦 [ELO Development](https://www.elo.com/de-de.html) - Developing interfaces, workflows, scripting, and meeting customer requirements.
 
 ### 🌱 Currently Learning
