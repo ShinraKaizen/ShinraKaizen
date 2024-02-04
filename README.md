@@ -13,6 +13,8 @@
 - 🌐 ASP Core Dashboard - An in-housedashboard leveraging Hornetsecurity API for data insights and automation.
 - 📦 [ELO Development](https://www.elo.com/de-de.html) - Developing interfaces, workflows, scripting, optimising business processes and general consulting.
 - 🎧 Discord Bot - Mostly for playing music and interacting with Friends/Community.
+- 📚 [DesignPatternsLab](https://github.com/ShinraKaizen/DesignPatternsLab) - A repository dedicated to exploring and implementing various software design patterns in .NET, starting with the Singleton pattern.
+
 
 ### 🌱 Learning Horizon 
 
