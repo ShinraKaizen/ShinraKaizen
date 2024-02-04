@@ -23,4 +23,4 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving in
 
 ### ❤️ Thank You
 
-Thank you for visiting my GitHub profile. I'm excited to be part of the GitHub community and collaborate with fellow developers. Don't hesitate to reach out, and let's build amazing things together!
+Thank you for visiting my GitHub profile. I'm excited to be part of the GitHub community and collaborate with fellow developers. Don't hesitate to reach out, and let's build amazing projects together!
